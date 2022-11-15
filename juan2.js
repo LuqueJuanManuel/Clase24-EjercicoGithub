@@ -1,1 +1,3 @@
-let nombre = "juan";
+const nombre = 'juan'
+
+console.log(nombre)
